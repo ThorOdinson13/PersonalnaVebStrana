@@ -56,7 +56,7 @@ marquee{
     padding-bottom: 40px;
 }
 .pocetna p{
-    background: url("../images/welcome.gif")no-repeat center;
+    background: url("/images/welcome.gif")no-repeat center;
     height: 613px;
     width: 1363px;
 }
@@ -76,7 +76,7 @@ marquee{
 .zamene .slBitola{
     border: 3px solid blueviolet;
     display: inline-block;
-    background: url("../images/bitola.jpg") no-repeat;
+    background: url("/images/bitola.jpg") no-repeat;
     width: 700px;
     height: 900px;
     background-size: cover;
@@ -84,7 +84,7 @@ marquee{
 .zamene .slUciliste{
     border: 3px solid blueviolet;
     display: inline-block;
-    background: url("../images/uciliste.jpg") no-repeat;
+    background: url("/images/uciliste.jpg") no-repeat;
     width: 850px;
     height: 638px;
     background-size: cover;
@@ -92,7 +92,7 @@ marquee{
 .zamene .slHobi{
     border: 3px solid blueviolet;
     display: inline-block;
-    background: url("../images/rakomet5.jpg") no-repeat;
+    background: url("/images/rakomet5.jpg") no-repeat;
     width: 888px;
     height: 500px;
     background-size: contain;
@@ -155,21 +155,21 @@ footer{
 .kontakt ul li:first-child p:first-child,
 .kontakt ul li:nth-child(2) p:first-child
 {
-    background: url("../images/map.png")no-repeat;
+    background: url("/images/map.png")no-repeat;
     height: 20px;
     background-size: contain;
     padding-left: 23px;
 }
 .kontakt ul li:nth-child(3) p:first-child
 {
-    background: url("../images/phone.jpg")no-repeat;
+    background: url("/images/phone.jpg")no-repeat;
     height: 20px;
     background-size: contain;
     padding-left: 23px;
 }
 .kontakt ul li:nth-child(4) p:first-child
 {
-    background: url("../images/mail.jpg")no-repeat;
+    background: url("/images/mail.jpg")no-repeat;
     height: 20px;
     background-size: contain;
     padding-left: 23px;
@@ -189,7 +189,7 @@ footer{
 }
 .obrazovanie .osnovno{
     margin-top: -10px;
-    background: url("../images/osnovno.jpg")no-repeat;
+    background: url("/images/osnovno.jpg")no-repeat;
     width: 300px;
     height: 300px;
     background-size: contain;
@@ -206,7 +206,7 @@ footer{
 }
 .obrazovanie .kiril{
     margin-top: 0;
-    background: url("../images/kiril.jpg")no-repeat;
+    background: url("/images/kiril.jpg")no-repeat;
     width: 552px;
     height: 310px;
     background-size: contain;
@@ -214,7 +214,7 @@ footer{
 }
 .obrazovanie .kirilSport{
     margin-top: 0;
-    background: url("../images/osnovno sport.jpg")no-repeat;
+    background: url("/images/osnovno sport.jpg")no-repeat;
     width: 568px;
     height: 310px;
     background-size: contain;
@@ -222,7 +222,7 @@ footer{
 .obrazovanie .sredno{
     margin-left: -30px;
     margin-top: 0;
-    background: url("../images/matura1.jpg")no-repeat;
+    background: url("/images/matura1.jpg")no-repeat;
     width: 267px;
     height: 400px;
     background-size: contain;
@@ -234,7 +234,7 @@ footer{
 }
 .obrazovanie .tehnicko{
     margin-top: 0;
-    background: url("../images/tehnicko.jpg")no-repeat 0 -70px;
+    background: url("/images/tehnicko.jpg")no-repeat 0 -70px;
     width: 550px;
     height: 420px;
     background-size: cover;
@@ -242,7 +242,7 @@ footer{
 }
 .obrazovanie .ekipa{
     margin-top: 0;
-    background: url("../images/rakomet2.jpg")no-repeat;
+    background: url("/images/rakomet2.jpg")no-repeat;
     width: 560px;
     height: 420px;
     background-size: contain;
@@ -252,7 +252,7 @@ footer{
     margin-top: 0;
 }
 .obrazovanie .finki{
-    background: url("../images/finki.png") no-repeat;
+    background: url("/images/finki.png") no-repeat;
     width: 300px;
     height: 300px;
     margin-top: 0;
@@ -298,7 +298,7 @@ footer{
     line-height: 25px;
 }
 .hobi .rakomet1{
-    background: url("../images/rakomet2.jpeg")no-repeat;
+    background: url("/images/rakomet2.jpeg")no-repeat;
     width: 816px;
     height: 612px;
     margin-left: 100px;
@@ -306,7 +306,7 @@ footer{
     border: 3px double purple;
 }
 .hobi .rakomet2{
-    background: url("../images/rakomet1.jpg")no-repeat;
+    background: url("/images/rakomet1.jpg")no-repeat;
     width: 263px;
     height: 350px;
     background-size: contain;
@@ -323,7 +323,7 @@ footer{
     line-height: 25px;
 }
 .hobi .rakomet3{
-    background: url("../images/rakomet3.jpeg")no-repeat;
+    background: url("/images/rakomet3.jpeg")no-repeat;
     width: 815px;
     height: 613px;
     background-size: contain;
@@ -337,7 +337,7 @@ footer{
 }
 .hobi .planina1{
     margin-left: 35px;
-    background: url("../images/pelister2.jpg")no-repeat;
+    background: url("/images/pelister2.jpg")no-repeat;
     width: 450px;
     height: 600px;
     background-size: contain;
@@ -345,7 +345,7 @@ footer{
     border: 3px double purple;
 }
 .hobi .planina12{
-    background: url("../images/pelister3.jpg")no-repeat;
+    background: url("/images/pelister3.jpg")no-repeat;
     width: 450px;
     height: 600px;
     background-size: contain;
@@ -358,7 +358,7 @@ footer{
     line-height: 25px;
 }
 .hobi .planina2{
-    background: url("../images/pelister1.jpg")no-repeat;
+    background: url("/images/pelister1.jpg")no-repeat;
     width: 300px;
     height: 400px;
     background-size: contain;
@@ -384,7 +384,7 @@ footer{
     padding-right: 15px;
 }
 .hobi .tocak1{
-    background: url("../images/tocak1.jpg")no-repeat;
+    background: url("/images/tocak1.jpg")no-repeat;
     width: 300px;
     height: 400px;
     background-size: contain;
@@ -397,16 +397,11 @@ footer{
     line-height: 25px;
 }
 .hobi .tocak2{
-    background: url("../images/tocak2.jpeg")no-repeat;
+    background: url("/images/tocak2.jpeg")no-repeat;
     width: 933px;
     height: 700px;
     background-size: contain;
     margin-top: 0;
     margin-left: 35px;
     border: 3px double purple;
-}
-.art{
-    background-image: url("../images/art.png") no-repeat;
-    width: 400px;
-    height: 200px;
 }
