@@ -76,7 +76,7 @@ marquee{
 .zamene .slBitola{
     border: 3px solid blueviolet;
     display: inline-block;
-    background: url("/images/bitola.jpg") no-repeat;
+    background: url("../images/bitola.jpg") no-repeat;
     width: 700px;
     height: 900px;
     background-size: cover;
