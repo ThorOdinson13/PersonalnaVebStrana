@@ -84,8 +84,7 @@ marquee{
 .zamene .slUciliste{
     border: 3px solid blueviolet;
     display: inline-block;
-    /*background: url("../images/uciliste.jpg") no-repeat;*/
-    background: url("../images/bitola.jpg") no-repeat;
+    background: url("../images/uciliste.jpg") no-repeat;
     width: 850px;
     height: 638px;
     background-size: cover;
